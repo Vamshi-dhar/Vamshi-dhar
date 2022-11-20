@@ -18,8 +18,7 @@ save soil
 Green panther :recycle:    
 favorites :snowflake: :snowman: :foggy: :ocean:
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-dhar&hide=TeX&layout=compact)
 ![H K Vamshidhar's github stats](https://github-readme-stats.vercel.app/api?username=Vamshi-dhar&hide=["issues"]&show_icons=true)
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Vamshi-dhar/count.svg" />
