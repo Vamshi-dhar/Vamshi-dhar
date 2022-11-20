@@ -17,22 +17,39 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 :recycle: save soil, Green panther                                                                    
 :star2: favorites :snowflake: :snowman: :foggy: :ocean:
 
-## ⚡ Technologies
-https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+## :books: Education :top:
+![coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
+![khan](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=white)
+![udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=Udemy&logoColor=white)
+![udacity](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)
+![codeacademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-square&logo=codecademy&logoColor=303347)
 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+## ⚡ Technologies
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
+![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+## Languages & IDE:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
+![colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
+![Jupiter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+
+## OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-dhar&hide=TeX&layout=compact)
