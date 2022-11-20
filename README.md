@@ -57,7 +57,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ![H K Vamshidhar's github trophies](https://github-profile-trophy.vercel.app/?username=Vamshi-dhar)
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/Vamshi-dhar/count.svg" />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vamshi-dhar)
 
                                                                                                                                    
