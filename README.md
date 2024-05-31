@@ -7,9 +7,8 @@ or Email me [![Gmail Badge](https://img.shields.io/badge/-vamshitopi3.14@gmail.c
 ### Hi there，I'm H K Vamshidhar 🙋‍♂️
 You have finally discovered my Github profile.
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-
-:point_right: Open source is something I'm interested in.                      
-:point_right: I am into automating machinr learning pipelines.                        
+                 
+:point_right: I am into automating machine learning pipelines.                        
 :point_right: Kubernetes and Kubeflow is an area I'm focusing on right now.   
 ⚡ Currently Working at Flytxt mobile solutions.                                                   
 :chocolate_bar:TasteBuds :yum:                                                                                            
